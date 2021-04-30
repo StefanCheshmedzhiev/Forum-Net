@@ -1,4 +1,5 @@
 ﻿using Forum_Net.Data.Common;
+using Forum_Net.Data.Models.Enums;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
