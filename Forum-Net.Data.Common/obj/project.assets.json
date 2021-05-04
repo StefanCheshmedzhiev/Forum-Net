@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj",
       "projectName": "Forum-Net.Data.Common",
-      "projectPath": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj",
+      "projectPath": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Common\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",

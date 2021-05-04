@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Models\\Forum-Net.Data.Models.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Models\\Forum-Net.Data.Models.csproj",
       "projectName": "Forum-Net.Data.Models",
-      "projectPath": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Models\\Forum-Net.Data.Models.csproj",
+      "projectPath": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Models\\Forum-Net.Data.Models.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Models\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -978,8 +978,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj": {
-              "projectPath": "C:\\Users\\Stefan\\source\\repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj"
+            "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj": {
+              "projectPath": "D:\\Source\\Repos\\Forum-Net\\Forum-Net.Data.Common\\Forum-Net.Data.Common.csproj"
             }
           }
         }

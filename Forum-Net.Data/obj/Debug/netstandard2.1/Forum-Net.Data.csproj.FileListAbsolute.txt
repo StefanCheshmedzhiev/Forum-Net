@@ -1,0 +1,5 @@
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.1\Forum-Net.Data.Common.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.1\Forum-Net.Data.Models.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.1\Forum-Net.Data.csprojAssemblyReference.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.1\Forum-Net.Data.AssemblyInfoInputs.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.1\Forum-Net.Data.AssemblyInfo.cs

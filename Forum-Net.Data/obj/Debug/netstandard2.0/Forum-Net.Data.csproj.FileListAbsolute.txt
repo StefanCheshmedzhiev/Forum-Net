@@ -1,0 +1,7 @@
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.0\Forum-Net.Data.deps.json
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.0\Forum-Net.Data.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.0\Forum-Net.Data.csprojAssemblyReference.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.0\Forum-Net.Data.AssemblyInfoInputs.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data\obj\Debug\netstandard2.0\Forum-Net.Data.AssemblyInfo.cs
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.0\Forum-Net.Data.Common.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data\bin\Debug\netstandard2.0\Forum-Net.Data.Models.dll
