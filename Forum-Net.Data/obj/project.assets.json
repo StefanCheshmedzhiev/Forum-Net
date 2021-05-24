@@ -2012,9 +2012,10 @@
       },
       "Forum-Net.Data.Models/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Forum-Net.Data.Common": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.4",
           "Microsoft.Extensions.Identity.Stores": "5.0.5"
         },
         "compile": {
@@ -7172,7 +7173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.114\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.115\\RuntimeIdentifierGraph.json"
       }
     }
   }

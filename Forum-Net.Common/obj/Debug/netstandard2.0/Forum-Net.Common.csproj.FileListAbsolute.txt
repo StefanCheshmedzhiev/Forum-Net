@@ -1,0 +1,8 @@
+D:\Source\Repos\Forum-Net\Forum-Net.Common\bin\Debug\netstandard2.0\Forum-Net.Common.deps.json
+D:\Source\Repos\Forum-Net\Forum-Net.Common\bin\Debug\netstandard2.0\Forum-Net.Common.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Common\bin\Debug\netstandard2.0\Forum-Net.Common.pdb
+D:\Source\Repos\Forum-Net\Forum-Net.Common\obj\Debug\netstandard2.0\Forum-Net.Common.csprojAssemblyReference.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Common\obj\Debug\netstandard2.0\Forum-Net.Common.AssemblyInfoInputs.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Common\obj\Debug\netstandard2.0\Forum-Net.Common.AssemblyInfo.cs
+D:\Source\Repos\Forum-Net\Forum-Net.Common\obj\Debug\netstandard2.0\Forum-Net.Common.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Common\obj\Debug\netstandard2.0\Forum-Net.Common.pdb

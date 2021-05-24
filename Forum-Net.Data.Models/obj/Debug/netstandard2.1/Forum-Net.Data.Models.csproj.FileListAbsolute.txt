@@ -1,0 +1,11 @@
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\bin\Debug\netstandard2.1\Forum-Net.Data.Models.deps.json
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\bin\Debug\netstandard2.1\Forum-Net.Data.Models.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\bin\Debug\netstandard2.1\Forum-Net.Data.Common.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\bin\Debug\netstandard2.1\Forum-Net.Data.Common.pdb
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.csprojAssemblyReference.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.AssemblyInfoInputs.cache
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.AssemblyInfo.cs
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.csproj.CopyComplete
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\bin\Debug\netstandard2.1\Forum-Net.Data.Models.pdb
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.dll
+D:\Source\Repos\Forum-Net\Forum-Net.Data.Models\obj\Debug\netstandard2.1\Forum-Net.Data.Models.pdb

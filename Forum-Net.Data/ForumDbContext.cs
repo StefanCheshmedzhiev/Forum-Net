@@ -1,4 +1,5 @@
-﻿using Forum_Net.Data.Models;
+﻿using Forum_Net.Common;
+using Forum_Net.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -36,6 +37,7 @@ namespace Forum_Net.Data
 
         public DbSet<UserFollower> UsersFollowers { get; set; }
 
+        
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
